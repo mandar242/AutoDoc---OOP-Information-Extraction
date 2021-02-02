@@ -1,0 +1,10 @@
+public class IC_Tester {
+    static public int BBBBBB;
+    }
+
+public class ObjectAdapter extends Base1 {
+    Base2   b2;   
+    public ObjectAdapter(Base2 b){
+        b2=d;
+    }
+}
