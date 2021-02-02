@@ -55,7 +55,9 @@ You must have Java and ANTLR set up on your machine to run the application.
 ## Examples
 
 * Getting information of a Java source file.
-<img src="screenshots/Example.jpg" alt="Logo" width="180" height="180">
+
+	<img src="screenshots/Example.jpg" alt="Logo" width="280" height="280">
 * Getting the comparison report of two different versions of a program source file.
-<img src="screenshots/Pre-maintenance.jpg" alt="Logo" width="180" height="180">
-<img src="screenshots/Post-maintenance.jpg" alt="Logo" width="180" height="180">
+
+	<img src="screenshots/Pre-maintenance.jpg" alt="Logo" width="580" height="280">
+	<img src="screenshots/Post-maintenance.jpg" alt="Logo" width="580" height="280">
